@@ -1,1 +1,12 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25%;
+}
+
+p {
+  font-size: 50px;
+}
